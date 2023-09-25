@@ -34,7 +34,7 @@ This is a simple web-based clock application that displays the current time in b
 
 ## Demo
 
-You can see a live demo of this clock app [here](https://example.com/clock-app).
+You can see a live demo of this clock app [here]([https://example.com/clock-app](https://soumyamohanty96.github.io/Create-Digital-and-Analog-Clock-using-CSS-JavaScript/)).
 
 ## License
 
