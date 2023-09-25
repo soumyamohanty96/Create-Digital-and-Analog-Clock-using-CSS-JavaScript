@@ -18,7 +18,7 @@ This is a simple web-based clock application that displays the current time in b
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/clock-web-app.git
+   git clone https://github.com/soumyamohanty96/Create-Digital-and-Analog-Clock-using-CSS-JavaScript.git
    ```
 
 2. Open the `index.html` file in a modern web browser.
