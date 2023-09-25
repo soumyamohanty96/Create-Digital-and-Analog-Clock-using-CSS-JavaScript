@@ -47,4 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to contribute to this project by submitting issues or pull requests!
 ```
 
-Please make sure to replace the placeholders like `https://github.com/your-username/clock-web-app.git`, `https://example.com/clock-app`, and `[name]` with your actual project details and acknowledgments.
+Please make sure to replace the placeholders like `https://github.com/soumyamohanty96/Create-Digital-and-Analog-Clock-using-CSS-JavaScript.git`, `https://github.com/soumyamohanty96/Create-Digital-and-Analog-Clock-using-CSS-JavaScript.git`, and `[name]` with your actual project details and acknowledgments.
